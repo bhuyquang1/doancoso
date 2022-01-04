@@ -1,0 +1,4 @@
+min|max|result
+0|1|Rất tiếc! Bạn đã không vượt qua bài kiểm tra về derby Manchester.
+2|4|Bạn đã vượt qua bài kiểm tra về derby Manchester!
+5|5|Bạn đã đúng hết các câu trong bài kiểm tra về derby Manchester!

@@ -1,0 +1,6 @@
+id|question
+01|Trong một trận đấu, Mario Balotelli cởi áo, lộ ra dòng chữ "Why Always Me". Sự kiện này diễn ra ở giải đấu và mùa giải nào?
+02|Cựu danh thủ Manchester United nào từng ghi bàn vào lưới đội bóng cũ, khiến Manchester United xuống hạng vào năm 1974?
+03|Trong một trận đấu khác, Gary Neville hôn vào môi Paul Scholes. Sự kiện này diễn ra ở giải đấu và mùa giải nào?
+04|Nạn nhân của pha triệt hạ tới từ cựu đội trưởng Roy Keane vào mùa giải 2000-2001 của giải Ngoại Hạng Anh là ai?
+05|Ai là tác giả của cú "xe đạp chống ngược" vào mùa giải 2010-2011 của giải Ngoại Hạng Anh?
